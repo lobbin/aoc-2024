@@ -11,6 +11,8 @@ github.com/fsnotify/fsnotify v1.7.0 h1:8JEhPFa5W2WU7YfeZzPNqzMP6Lwt7L2715Ggo0nos
 github.com/fsnotify/fsnotify v1.7.0/go.mod h1:40Bi/Hjc2AVfZrqy+aj+yEI+/bRxZnMJyTJwOpGvigM=
 github.com/google/go-cmp v0.5.7 h1:81/ik6ipDQS2aGcBfIN5dHDB36BwrStyeAQquSYCV4o=
 github.com/google/go-cmp v0.5.7/go.mod h1:n+brtR0CgQNWTVd5ZUFpTBC8YFBDLK/h/bpaJ8/DtOE=
+github.com/hmdsefi/gograph v0.4.2 h1:f96ZI2Mek/uqte1IqYWMjaOXMfZwxIhZVl1vgJ/FHFw=
+github.com/hmdsefi/gograph v0.4.2/go.mod h1:BDi3L1Xo1ypTxZW2zFPXhSqn8znZ4WrdOnsRPDEDMOw=
 github.com/jpillora/ansi v1.0.3 h1:nn4Jzti0EmRfDxm7JtEs5LzCbNwd5sv+0aE+LdS9/ZQ=
 github.com/jpillora/ansi v1.0.3/go.mod h1:D2tT+6uzJvN1nBVQILYWkIdq7zG+b5gcFN5WI/VyjMY=
 github.com/jpillora/maplock v0.0.0-20160420012925-5c725ac6e22a h1:40K0UjFKjfaXcJaGMgf9C0fOzwDxPZMOI0CPbNP89cQ=

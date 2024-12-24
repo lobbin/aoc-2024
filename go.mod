@@ -11,6 +11,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.8.1 // indirect
 	github.com/andybalholm/cascadia v1.3.2 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
+	github.com/hmdsefi/gograph v0.4.2
 	github.com/jpillora/ansi v1.0.3 // indirect
 	github.com/jpillora/maplock v0.0.0-20160420012925-5c725ac6e22a // indirect
 	github.com/maruel/panicparse/v2 v2.3.1 // indirect
